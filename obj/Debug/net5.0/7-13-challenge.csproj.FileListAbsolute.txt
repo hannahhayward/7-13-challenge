@@ -1,0 +1,16 @@
+C:\Users\hbean\source\codeworks\7-13-challenge\obj\Debug\net5.0\7-13-challenge.csproj.AssemblyReference.cache
+C:\Users\hbean\source\codeworks\7-13-challenge\obj\Debug\net5.0\7-13-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbean\source\codeworks\7-13-challenge\obj\Debug\net5.0\7-13-challenge.AssemblyInfoInputs.cache
+C:\Users\hbean\source\codeworks\7-13-challenge\obj\Debug\net5.0\7-13-challenge.AssemblyInfo.cs
+C:\Users\hbean\source\codeworks\7-13-challenge\obj\Debug\net5.0\7-13-challenge.csproj.CoreCompileInputs.cache
+C:\Users\hbean\source\codeworks\7-13-challenge\bin\Debug\net5.0\7-13-challenge.exe
+C:\Users\hbean\source\codeworks\7-13-challenge\bin\Debug\net5.0\7-13-challenge.deps.json
+C:\Users\hbean\source\codeworks\7-13-challenge\bin\Debug\net5.0\7-13-challenge.runtimeconfig.json
+C:\Users\hbean\source\codeworks\7-13-challenge\bin\Debug\net5.0\7-13-challenge.runtimeconfig.dev.json
+C:\Users\hbean\source\codeworks\7-13-challenge\bin\Debug\net5.0\7-13-challenge.dll
+C:\Users\hbean\source\codeworks\7-13-challenge\bin\Debug\net5.0\ref\7-13-challenge.dll
+C:\Users\hbean\source\codeworks\7-13-challenge\bin\Debug\net5.0\7-13-challenge.pdb
+C:\Users\hbean\source\codeworks\7-13-challenge\obj\Debug\net5.0\7-13-challenge.dll
+C:\Users\hbean\source\codeworks\7-13-challenge\obj\Debug\net5.0\ref\7-13-challenge.dll
+C:\Users\hbean\source\codeworks\7-13-challenge\obj\Debug\net5.0\7-13-challenge.pdb
+C:\Users\hbean\source\codeworks\7-13-challenge\obj\Debug\net5.0\7-13-challenge.genruntimeconfig.cache
